@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(26, 26, 26);
+  color: white;
+  font-family: Helvetica;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 40px;
+  background-color: rgb(26, 26, 26);
+  border: none;
+  color: white;
+}
+button {
+  width: 65px;
+  height: 65px;
+  font-size: 30px;
+  margin: 5px;
+  color: white;
+  background-color: rgb(78, 78, 78);
+  border: none;
+  border-radius: 50px;
+}
+
+.symbol{
+  color: white;
+  background-color: green;
+}
+
+#cancel{
+  background-color: rgb(255, 44, 44);
+  color: white;
+}
+
+#equal-sign{
+  background-color: green;
+  color: white;
+}
